@@ -1,0 +1,3 @@
+Bare basic spaced repitition scheduler.  At the time I didn' understand the SM2 algorithm well enough to implement that so it use a braindead simple prime adjusted rabbit sequence.  The 'prime adjusted' part means that each number in the sequence has been replaced by its nearest prime.  This ensures there are no overlapping sequences.
+
+This was my first graphical application.
